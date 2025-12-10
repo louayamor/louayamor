@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Louay Amor 👋</h1>
-<h3 align="center">Engineering Student • MLOps Engineer • GenAI & Reasoning Models Enthusiast</h3>
+<h3 align="center">Engineering Student • MLOps Engineer • GenAI & Reasoning Models Enthusiast • Mobile Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUwOGhsNjlwd3F1Nng4ZzZtbTluaWJ0M2JudnB6Nm1ncGVpd2FjayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
