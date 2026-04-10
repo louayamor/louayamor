@@ -1,85 +1,110 @@
-<h1 align="center">Hi, I'm Louay Amor 👋</h1>
-<h3 align="center">Engineering Student • MLOps Engineer • GenAI & Reasoning Models Enthusiast • Mobile Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUwOGhsNjlwd3F1Nng4ZzZtbTluaWJ0M2JudnB6Nm1ncGVpd2FjayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
-</p>
+# Louay Amor
 
----
+**Engineering Student &nbsp;·&nbsp; MLOps Engineer &nbsp;·&nbsp; GenAI & Reasoning Models &nbsp;·&nbsp; Mobile Developer**
 
-## 🚀 Current Focus  
-### 🧠 Building **Reasona** — a lightweight GPT-style reasoning model  
-Repo: https://github.com/louayamor/Reasona
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louayamor)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amor.louay20@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/louayamor)
 
-- Developing a **mini-GPT for structured reasoning tasks**
-- Using **SYNTH** and curated datasets for reasoning, coding help, and automation tasks  
-- Setting up a full MLOps cycle:  
-  - Data pipelines  
-  - Experiment tracking with MLflow  
-  - Training and evaluation  
-  - Model packaging and versioning  
-
-### 📚 Learning  
-- GenAI architectures (Transformers, GPT-style models, attention mechanisms)  
-- Structured reasoning techniques  
-- Synthetic data generation for reasoning tasks  
-- Efficient training methods: LoRA, QLoRA, FlashAttention  
+</div>
 
 ---
 
-## 🧩 MLOps + GenAI Skills
+## Current Focus
 
-### ⚙️ Core Competencies  
-- Model training pipelines (TensorFlow / PyTorch)  
-- MLflow, DVC, data versioning  
-- Docker, Kubernetes, CI/CD (GitHub Actions)  
-- Cloud compute (AWS)  
-- Vector stores, embeddings, retrieval pipelines  
-- Dataset engineering for reasoning & code generation  
+### Reasona — Lightweight GPT-Style Reasoning Model
 
-### 🔧 Tools & Tech  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,aws,git,githubactions,linux,java,mongodb,mysql,flutter,angular,nodejs" />
-</p>
+> Repo: [github.com/louayamor/Reasona](https://github.com/louayamor/Reasona)
 
----
+A mini-GPT designed for structured reasoning tasks — step-by-step problem solving, code generation for junior engineers, and small-business automation.
 
-## 🔥 Featured Work
+**Pipeline:**
+- Synthetic data generation (SYNTH + curated reasoning/code datasets)
+- Experiment tracking with MLflow
+- Config-driven training with LoRA / QLoRA / FlashAttention
+- Model packaging, versioning, and deployment-ready inference API
 
-### 🧠 Reasona — *Your LLM for Reasoning Tasks*  
-Lightweight model designed for:  
-- Step-by-step reasoning  
-- Question answering  
-- Code generation for junior engineers & students  
-- Small-business automation tasks  
-
-Includes:  
-- Modular pipeline  
-- Config-driven training  
-- Dataset integration (SYNTH + custom code datasets)  
-- Trainer + evaluator  
-- Deployment-ready design (API + inference module)
+**Currently learning:**
+- GPT-style architectures — Transformers, attention mechanisms, positional encodings
+- Structured reasoning techniques and chain-of-thought prompting
+- Efficient fine-tuning: LoRA, QLoRA, FlashAttention
 
 ---
 
-## 📊 GitHub Stats
+## MLOps + GenAI Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louayamor&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louayamor&layout=compact&theme=tokyonight" height="150" />
-</p>
+**Training & ML**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=louayamor&theme=tokyonight" height="150" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**MLOps & Infra**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**LLMOps & RAG**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+
+**Frontend & Mobile**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/louayamor" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-<a href="mailto:amor.louay20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-<a href="https://github.com/louayamor" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-</p>
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Reasona**](https://github.com/louayamor/Reasona) | Lightweight GPT-style reasoning model with full MLOps cycle | PyTorch · MLflow · LoRA · FastAPI |
+| [**RetinaxAI**](https://github.com/louayamor/RetinaxAI) | End-to-end MLOps pipeline for diabetic retinopathy grading from OCT scans | EfficientNet · LangChain · RAG · ChromaDB · FastAPI · Next.js |
 
 ---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=louayamor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louayamor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+
+<img src="https://streak-stats.demolab.com/?user=louayamor&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=louayamor&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=louayamor&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komainu8.github.io/github-profile-views-counter/louayamor/svg)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/louayamor?style=social)
+
+</div>
